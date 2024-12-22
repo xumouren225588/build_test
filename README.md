@@ -1,4 +1,4 @@
-# 本仓库仅限xumouren225588本人做测试使用，最终版权属于ophub
+# 本fork仓库仅限xumouren225588本人做测试使用，最终版权属于ophub
 # Armbian
 
 View Chinese description | [查看中文说明](README.cn.md)
